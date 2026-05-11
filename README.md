@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- WAVING HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Vineet%20Shukla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descAlign=50" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Vineet%20Shukla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Google%20Cloud&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;Google+Cloud+%7C+Firebase+%7C+Gemini+AI+%E2%98%81%EF%B8%8F;Full-Stack+%7C+Python+%7C+TypeScript+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=AI+engineer+who+ships+to+production+%F0%9F%9A%80;Gemini+API+%7C+Firebase+%7C+Google+Cloud+%E2%98%81%EF%B8%8F;Python+%7C+TypeScript+%7C+FastAPI+%F0%9F%90%8D;Open+to+internships+%26+collaborations+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <p>
   <a href="https://vineet-shukl.github.io/portfolio/">
@@ -28,29 +28,20 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-```python
-class Vineet:
-    name       = "Vineet Shukla"
-    location   = "India 🇮🇳"
-    roles      = ["AI/ML Engineer", "Full-Stack Developer"]
+AI/ML engineer based in India, focused on building production-grade applications with Google Cloud and the Gemini API. I write Python and TypeScript, deploy on Firebase and Cloud Run, and care about CI/CD from day one.
 
-    stack      = {
-        "AI/ML"   : ["Gemini AI", "HuggingFace", "LangChain", "RAG Pipelines"],
-        "Cloud"   : ["Google Cloud", "Firebase", "Cloud Run", "Vercel"],
-        "Frontend": ["React", "Next.js", "TypeScript"],
-        "Backend" : ["Python", "FastAPI", "Django", "Node.js"],
-    }
+Current focus: applying to AI/ML and full-stack internships while deepening skills in LLM engineering — RAG pipelines, fine-tuning, and evaluation frameworks.
 
-    currently  = "Building AI-powered civic tools with Gemini & Firebase"
-    learning   = ["MLOps", "LLM Fine-tuning", "Vector Databases"]
-    open_to    = ["Internships", "Collaborations", "Open Source"]
-```
+**Highlights:**
+- Shipped [VoterWise](https://voterwise-c0186.web.app/) — a live Gemini-powered civic assistant for Indian voters, with DENY-ALL Firestore rules, response caching, and rate limiting
+- Attended **Google Build With AI** hackathon (Gemini API, hands-on)
+- Active on [HuggingFace](https://huggingface.co/Pandaisop) with a deployed voice detection API
 
 ---
 
-## 🔥 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -71,7 +62,7 @@ class Vineet:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**☁️ Cloud · AI · DevOps**
+**Cloud · AI · DevOps**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -86,7 +77,37 @@ class Vineet:
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+<div align="center">
+
+| Project | What It Does | Stack | Link |
+|---------|-------------|-------|------|
+| 🗳️ **VoterWise** | Civic AI assistant for Indian voters. Gemini API backend with response caching, rate limiting, and DENY-ALL Firestore security rules. Fully deployed on Firebase. | `Python` `Gemini API` `Firebase` `Cloud Functions` | [Live ↗](https://voterwise-c0186.web.app/) |
+| 🎙️ **Voice Detection API** | REST API for real-time voice and speech analysis. Hosted on HuggingFace Spaces. | `Python` `FastAPI` `ML` | [HuggingFace ↗](https://huggingface.co/spaces/Pandaisop/voice-detection-api) |
+| 🧭 **AI Journey Hub** | Curated AI/ML learning roadmap with structured resources. | `TypeScript` `Next.js` `Vercel` | [Live ↗](https://aimlguide.vercel.app) |
+| 🎯 **Intervue** | Mock interview platform with AI-generated feedback. | `TypeScript` `React` `Vercel` | [Live ↗](https://intervue-grow.vercel.app) |
+| 🌐 **Group Hurricane** | Full-stack travel platform built during a hackathon. | `JavaScript` `Node.js` `Render` | [Live ↗](https://group-hurricane-3.onrender.com) |
+| 👤 **Portfolio** | Personal portfolio — responsive design, GitHub Pages. | `HTML` `CSS` `JS` | [Live ↗](https://vineet-shukl.github.io/portfolio/) |
+
+</div>
+
+---
+
+## What I'm Building Now
+
+```
+VoterWise AI        ████████████████████  Production  — Firebase + Gemini
+LLM Engineering     ████████████░░░░░░░░  Learning    — RAG, Fine-tuning, Evals
+Google Cloud        ███████████████░░░░░  Advanced    — Cloud Run, Pub/Sub, BigQuery
+Full-Stack (TS)     ████████████████░░░░  Strong      — Next.js, React, tRPC
+Python / ML         ████████████████████  Core        — FastAPI, HuggingFace, scikit-learn
+DevOps / CI-CD      ████████████░░░░░░░░  Growing     — Docker, GitHub Actions, Cloud Build
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -103,47 +124,7 @@ class Vineet:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🛠️ Stack | 🔗 |
-|---|---|---|---|
-| 🗳️ **VoterWise** | AI civic assistant for Indian voters — Gemini + Firebase | `Python` `Gemini AI` `Firebase` | [Live ↗](https://voterwise-c0186.web.app/) |
-| 🎙️ **Voice Detection API** | Real-time voice & speech analysis REST API | `Python` `FastAPI` `ML` | [HuggingFace ↗](https://huggingface.co/spaces/Pandaisop/voice-detection-api) |
-| 🧭 **AI Journey Hub** | Curated AI/ML learning roadmap & resource hub | `TypeScript` `Next.js` | [Live ↗](https://aimlguide.vercel.app) |
-| 🎯 **Intervue** | AI-powered mock interview & prep platform | `TypeScript` `React` | [Live ↗](https://intervue-grow.vercel.app) |
-| 🌐 **Group Hurricane** | Full-stack business platform with real-time features | `JavaScript` `Node.js` | [Live ↗](https://group-hurricane-3.onrender.com) |
-| 👤 **Portfolio** | Personal portfolio — responsive, GitHub Pages hosted | `HTML` `CSS` `JS` | [Live ↗](https://vineet-shukl.github.io/portfolio/) |
-
-</div>
-
----
-
-## 🎯 Currently Building & Learning
-
-```
-🗳️  VoterWise AI       ████████████████████  Production — Firebase + Gemini
-🧠  LLM Engineering     ████████████░░░░░░░░  Learning   — RAG, Fine-tuning, Evals
-☁️  Google Cloud        ███████████████░░░░░  Advanced   — Cloud Run, Pub/Sub, BigQuery
-⚛️  Full-Stack (TS)     ████████████████░░░░  Strong     — Next.js, React, tRPC
-🐍  Python / ML         ████████████████████  Core       — FastAPI, HuggingFace, scikit-learn
-🔐  DevOps / CI-CD      ████████████░░░░░░░░  Growing    — Docker, GitHub Actions, Cloud Build
-```
-
----
-
-## 📅 What I'm Up To
-
-- 🏗️ &nbsp;Building **VoterWise** — making civic info accessible via AI
-- 📚 &nbsp;Studying **LLM internals** — fine-tuning, RAG pipelines, agentic workflows
-- 🌱 &nbsp;Deepening **Google Cloud** skills — GCP Professional Cloud Developer path
-- 🤝 &nbsp;Looking for **internship opportunities** in AI/ML or Full-Stack Engineering
-- ✍️ &nbsp;Attended **Google Build With AI** — hands-on Gemini API hackathon
-
----
-
-## 📈 Contribution Activity
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet-shukl&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1&point=6366f1" width="100%"/>
@@ -153,11 +134,7 @@ class Vineet:
 
 <div align="center">
 
-**💡 "Build things that matter. Ship things that work. Learn from everything."**
-
-<br/>
-
-*Open to internships, collaborations, and interesting problems* &nbsp;·&nbsp; 📍 India
+*Available for AI/ML and full-stack internships* &nbsp;·&nbsp; 📍 India &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vineet-shukla-0b1b67313) &nbsp;·&nbsp; [Portfolio](https://vineet-shukl.github.io/portfolio/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%"/>
 
